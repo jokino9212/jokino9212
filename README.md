@@ -8,6 +8,7 @@ I am Frontend-developer
 - Завершил курс "Основы фронтенд-разработки" университет Иннополис
 - Прошел курс по js Богдана Стащука на Udemy
 - Успешно закончил курс cs50 по computer science университет Гарвард
+- Изучаю курс "Frontend middle+" от Karpov courses
 
 ### Skills
 
