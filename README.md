@@ -9,7 +9,7 @@ I am Frontend-developer
 ### Проекты:
 
 <p><strong>Фриланс:</strong> Выполнял заказы на верстку и разработку лэндингов, а также сложные веб-приложения на React.</p>
-<p><strong>NeuronPlatform:</strong> Разрабатываю frontend для приложения в Telegram, связанного с криптовалютами и NFT на блокчейне TON.</p>
+<p><strong>NeuronPlatform:</strong> Разрабатываю frontend и backend для приложения в Telegram, связанного с криптовалютами и NFT на блокчейне TON.</p>
 
 
 ### Skills
